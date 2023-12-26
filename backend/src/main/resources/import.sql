@@ -1,0 +1,2 @@
+INSERT INTO tb_gato (url, nome) VALUES ('https://i.pinimg.com/564x/09/48/db/0948db5bc98e2f7f3b0b72f3bf168dd4.jpg', 'pit');
+INSERT INTO tb_gato (url, nome) VALUES ('https://i.pinimg.com/564x/68/0c/57/680c57f787cd347d20982cf4144664f5.jpg', 'boi');
